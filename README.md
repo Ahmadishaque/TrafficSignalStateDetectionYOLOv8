@@ -128,7 +128,7 @@ This project addresses these challenges by leveraging **transfer learning** with
 **Ahmad Ishaque Karimi**  
 Graduate Student — Data Science & Computer Vision Research  
 📧 ahmadishaquekarimi@gmail.com  
-🔗 [LinkedIn]([https://www.linkedin.com/in/your-profile])
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmadishaquekarimi/)
 
 ---
 
