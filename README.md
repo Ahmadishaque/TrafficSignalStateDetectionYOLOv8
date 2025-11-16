@@ -86,12 +86,7 @@ This project addresses these challenges by leveraging **transfer learning** with
 ## 🧰 Repository Structure
 
 ```bash
-├── dataset/
-│   ├── train/
-│   ├── valid/
-├── traffic_light_model.pt
 ├── inferred_traffic_light_video.avi
-├── trafficlightProject.pdf
 ├── main.ipynb
 └── README.md
 ```
